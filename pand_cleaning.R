@@ -12,7 +12,7 @@ library(httpuv)
 library(googlesheets4)
 
 # Set working directory
-#setwd("C:/Users/westo/OneDrive/Desktop/pandemic_response")
+setwd("C:/Users/westo/OneDrive/Desktop/pandemic_response")
 
 #-----------------------------------------------------------
 # CASES
